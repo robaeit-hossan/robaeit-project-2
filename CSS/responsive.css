@@ -1,0 +1,208 @@
+@media(max-width:575.9px){
+    /* Your CSS Class*/
+    .area{
+      padding: 60px 20px !important;
+      text-align: center;
+    }
+    html, body{
+      padding: 0 !important;
+      margin: 0 !important;
+      width: 100% !important;
+      overflow-x: hidden;
+    }
+    .header{
+      padding: 5px 20px;
+    }
+    .header .navbar-brand{
+    font-size: 20px;
+  }
+    .home-text-area h1{
+      font-size: 40px;
+    }
+    .home-text-area .home-btn{
+      margin-bottom: 50px !important;
+    }
+    .home-text-area .home-btn{
+      padding: 12px 20px;
+      font-size: 17px;
+    }
+    .home-img{
+    height: 25rem;
+    top: 20px;
+    right: 90px;
+    }
+    .home-img-bg{
+      width: 100%  !important;
+      height: 400px !important;
+      border-radius: 50px;
+    }
+    .col-10{
+      width: 100%;
+    }
+    .text-area h1{
+      font-size: 30px !important;
+    }
+    .text-area .about-txt h4{
+      font-size: 17px !important;
+      line-height: 2rem;
+    }
+    .same-section h1{
+      font-size: 35px !important;
+    }
+    .same-section .img-bg{
+      height: 400px !important;
+      margin-top: 50px !important;
+    }
+    .me-5{
+      margin: 0 !important;
+    }
+    .features-text-area{
+      margin-top: 50px !important;
+    }
+    .footer-logo{
+      margin-bottom: 40px !important;
+    }
+  }
+  @media(min-width:576px) and (max-width:767.9px){
+    /* Your CSS Class*/
+    html, body{
+      padding: 0 !important;
+      margin: 0 !important;
+      width: 100% !important;
+      overflow-x: hidden;
+    }
+    .area{
+      padding: 60px 40px !important;
+    }
+    .header{
+      padding: 0 50px !important;
+    }
+    .home-text-area h1{
+      font-size: 60px;
+    }
+    .home-text-area .home-btn{
+      margin-bottom: 50px !important;
+    }
+    .home-text-area .home-btn{
+      padding: 15px 30px;
+      font-size: 20px;
+    }
+    .home-img{
+        height: 35rem;
+        top: 20px;
+        right: 90px;
+}
+
+    .col-10{
+      width: 100%;
+    }
+    .text-area h1{
+      font-size: 40px !important;
+    }
+    .text-area .about-txt h4{
+      font-size: 20px !important;
+    }
+    .same-section h1{
+      font-size: 50px !important;
+    }
+    .same-section .img-bg{
+      margin-top: 50px !important;
+    }
+    .me-5{
+      margin: 0 !important;
+    }
+    .features-text-area{
+      margin-top: 50px !important;
+    }
+    .footer-logo{
+      margin-bottom: 50px !important;
+    }
+  
+  }
+  @media(min-width:768px) and (max-width:991.9px){
+      /* Your CSS Class*/
+      html, body{
+        padding: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+        overflow-x: hidden;
+      }
+      .area{
+        padding: 60px 0 !important;
+      }
+      .header{
+        padding: 0 50px !important;
+      }
+      .home-text-area h1{
+        font-size: 50px;
+      }
+      .home-text-area .home-btn{
+        margin-bottom: 50px !important;
+      }
+      .home-text-area .home-btn{
+        padding: 15px 30px;
+        font-size: 20px;
+      }
+      .home-img::after{
+        
+        top: 3px;
+        left: 90px;
+        }
+      .text-area h1{
+        font-size: 40px !important;
+      }
+      .text-area .about-txt h4{
+        font-size: 20px !important;
+      }
+      .same-section h1{
+        font-size: 45px !important;
+      }
+      .footer-logo{
+        margin-bottom: 50px !important;
+      }
+  }
+  @media(min-width:992px) and (max-width:1190.9px){
+       /* Your CSS Class*/
+       html, body{
+        padding: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+        overflow-x: hidden;
+      }
+      .area{
+        padding: 60px 30px !important;
+      }
+      .home-text-area h1{
+        font-size: 60px;
+      }
+      .home-img::before{
+        width: 38rem;
+        height: 40rem;
+        top: -1rem;
+        left: -6rem;
+        }
+  }
+  @media(min-width:1200px) and (max-width:1399.9px){
+     /* Your CSS Class*/
+     html, body{
+      padding: 0 !important;
+      margin: 0 !important;
+      width: 100% !important;
+      overflow-x: hidden;
+    }
+    .home-img::before{
+      width: 38rem;
+      height: 40rem;
+      top: -1rem;
+      left: -6rem;
+      }
+  }
+  @media(min-width:1400px){
+      /* Your CSS Class*/
+      html, body{
+        padding: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+        overflow-x: hidden;
+      }
+  }
